@@ -6,7 +6,7 @@
 
 !!! BETA CRIPTONAUTA
 Puedes aportar imágenes subiendo el archivo (pegando al editar), sugerir ediciones en la organización, sintetizando cada capítulo en un resumen sencillo como última página y corregir ortografía, semántica o lo que sea.
-!!!
+!!
 
 Hola terrícola! 👋
 
@@ -50,7 +50,11 @@ VIDEOFOTOFINALABRIL
 
 En 6 meses de trading logramos un 574%. El trading rompe muchísimos esquemas, sobre todo en víctimas de la "economía clásica" que nos programa para ahorrar algo que se devalúa a ritmo exponencial.
 
-FOTODOLARPOWERBUYING
+PERDIDA DE PODER ADQUISITIVO DEL DOLAR 
+![Dolar](https://user-images.githubusercontent.com/35141406/209382185-d8dca553-4bfd-4fad-a87f-69c9debabd73.png)
+Fuente: Oficina de Estadísticas Laborales de Estados Unidos
+
+
 
 El marketing de gurúes es lo que mejor funciona con el 97% que se mueve por emociones que no aprendió a gestionar.
 
