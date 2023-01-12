@@ -105,3 +105,10 @@ Aprender practicando es la única manera de hacerlo así que olvidate de indicad
 Y preparate para cruzarte con todos tus miedos, si acostumbras a que otros hagan las cosas por ti.
 
 A partir de este momento comenzarás a hacerlas tú mism@.
+
+### Verifica Tus Conocimientos
+Esta sección contiene preguntas que te ayudarán a enfatizar las ideas claves desarrolladas anteriormente. 
+
+ - ***En el trading, de forma general, ¿Qué es lo que nos mantiene en profit?***
+
+ - ***¿Qué es lo único que funciona si te esfuerzas por aprender trading y cuál es la única manera de aprenderlo?***
