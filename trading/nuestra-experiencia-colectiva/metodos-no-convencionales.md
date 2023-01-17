@@ -106,9 +106,12 @@ Y preparate para cruzarte con todos tus miedos, si acostumbras a que otros hagan
 
 A partir de este momento comenzarás a hacerlas tú mism@.
 
-### Verifica Tus Conocimientos
-Esta sección contiene preguntas que te ayudarán a enfatizar las ideas claves desarrolladas anteriormente. 
+## [EJERCICIO PRÁCTICO #]
 
- - ***En el trading, de forma general, ¿Qué es lo que nos mantiene en profit?***
+Antes de continuar, responde estas preguntas en un papel y guárdalo en algún lugar que recuerdes (lo leerás nuevamente al terminar el curso):
 
- - ***¿Qué es lo único que funciona si te esfuerzas por aprender trading y cuál es la única manera de aprenderlo?***
+1) ¿Qué mantiene el profit en nuestro trading, de manera general?
+
+2) ¿De qué manera podemos materializar la teoría relacionada al trading?
+
+3) ¿Cuántas horas por día o semana estás dispuest@ a dedicarle a tu desarrollo como trader?
