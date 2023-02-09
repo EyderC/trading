@@ -1,4 +1,4 @@
-input: .
+input: ./
 output: .retype
 url: https://trading.criptonautas.co
 branding:
@@ -8,15 +8,17 @@ branding:
   logoDark: logod-01.png
   colors:
     label:
-      background: #111111
-      text: #ffffff
+      background: "#111111"
+      text: "#ffffff"
 edit:
   repo: https://github.com/somos-criptonautas/trading
   label: Editar en Github
 editor:
   enabled: true
+favicon: static/favicon.png
 exclude:
   - CONTRIBUTING.md
+  - ./README.md
 integrations:
   plausible:
    domain: stats.criptonautas.co

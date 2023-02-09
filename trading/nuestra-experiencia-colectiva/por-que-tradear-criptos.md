@@ -12,11 +12,11 @@ Y claro que se puede! Pero es necesario descubrir que hacer trading NO es seguir
 
 **Tradeo en cripto por 5 razones:**
 
-**1)** Me registro sin KYC (datos personales) lejos de bancos y Estados. Mi vida es así, mi trading es así. \
-\
+**1)** Me registro sin KYC (datos personales) lejos de bancos y Estados. Mi vida es así, mi trading es así.
+
 Pago menos, es más cómodo y no le tengo que dar explicaciones a nadie.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Portada de Wired en Mayo/Junio de 1993 (Wired)</p></figcaption></figure>
+![Portada de Wired en Mayo/Junio de 1993 (Wired)](https://github.com/somos-criptonautas/trading/raw/main/.gitbook/assets/image%20(1))
 
 **2)** Evito el análisis fundamental que se usa mucho en el lobby empresarial y bancario para _explicar_ crashes del mercado: devaluaciones, inyección monetaria, saqueos institucionales, despidos, etc.
 
@@ -26,7 +26,7 @@ Los gráficos anticipan las mayores probabilidades de lo que luego "es noticia".
 
 **4)** Rentabilizo la volatilidad, tanto en _swings_ a mediano/largo plazo como laterales al hacer scalping (para reducir riesgos y mantener mi capital saludable).
 
-**5)** Estoy afuera del mercado cuando la mayoría está perdiendo dinero, y mantengo mi inversión a largo plazo pero incluso sumo dinero en dólares.&#x20;
+**5)** Estoy afuera del mercado cuando la mayoría está perdiendo dinero, y mantengo mi inversión a largo plazo pero incluso sumo dinero en dólares.
 
 El mercado cripto nos ofrece datos que no podemos ver en el resto del mundo donde son manejados por empresas, y eso me permite encontrar las huellas institucionales en los cambios de tendencia.
 
@@ -38,4 +38,4 @@ Porque todo corrige, siempre:
 
 ![Volatilidad y corrección en acciones de Netflix](https://user-images.githubusercontent.com/98671738/210264784-cb46ed80-ede3-4c62-9092-0f6c67c5313b.png)
 
-Y mejor contar con una base de datos transparente.
+Y mejor contar con una base de datos transparente al evaluar de qué manera decidir sobre nuestras finanzas.

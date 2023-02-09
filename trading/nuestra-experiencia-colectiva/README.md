@@ -1,188 +1,159 @@
----
-icon: globe
----
-
 # Nuestra experiencia colectiva
 
-!!!light
-"By replacing fear of the unknown with curiosity we open ourselves up to an infinite stream of possibility.”
-- Alan Watts !!!
+!!!contrast
+By replacing fear of the unknown with curiosity we open ourselves up to an infinite stream of possibility.
+
+— Alan Watts
+!!!
 
 Hola terrícola! 👋
 
-Lo que leerás a continuación es el resultado de prácticamente toda mi vida, porque el trading motiva todo lo que me hace bien.
+Te escribe **matenauta** junto a la comunidad que se sumó a editar y colaborar libremente en nuestro Portal.
 
-Y es la actividad que más libertad me ofrece, que es la base de cada una de mis creaciones :)
+**Esto es el resultado de prácticamente toda mi vida, porque el trading motiva y exige todo lo que me hace bien.**
 
-A lo largo de este libro verás varios emojis, te cruzarás con palabras _argentas_, _paisas_ y _mexas_, y aprenderás que todo puede ser más simple.
+Porque elegir sobre nuestro dinero implica un grado de libertad y equilibrio que ni siquiera imaginamos desde lo que aquí definimos como "La Matrix".
 
-Si piensas en escribir un libro, tal vez imagines que es algo que se escribe de principio a final...
+> _"La Matrix" también puede ser definida como "sociedad", "capitalismo" o "sistema"._
+>
+> _Nos interesa el concepto lejos de sus connotaciones políticas o ideológicas._
 
-Pero si escribes un libro, notarás que tiene varios principios y finales.
+## Por qué aprendí trading
 
-La idea de lo incierto cotidianamente nos asusta porque esperamos controlar todas las cosas, cuando no podemos controlar ni siquiera nuestras pasiones.
+Estudié y me desarrollé profesionalmente en el trading de criptos para costear el nivel de vida que disfruto sin entregar 1/3 de mi tiempo (o incluso más, contando horas _extras_)...
 
-Por eso te sentirás incómod@ a lo largo de esta experiencia, sobre todo si esperas algo que resuelva tus problemas financieros de una vez.
+Lejos de Estados y sin responsabilidades ni generando dependencia sobre terceros.
 
-Aquí aprenderás estudiando, compartiendo o repitiendo patrones cíclicos si no prestas atención ni respetas nuestro método.
+Por otra parte, me propuse mezclar música electronica sin depender de ello para sostener mi economía. Y tal vez te preguntes por qué te cuento esto cuando solo quieres hacer dinero!
 
-Aprenderás de manera amigable o muy dura. Porque es nuestro único y principal objetivo, que aprendas lo que aprendimos y te liberes.
+Entonces me permito acercarte un puñetazo de realidad:
 
-A medida que avances, entenderás por qué no se trata de un libro ni tampoco de un curso. Y cómo es que lo que hacemos se transformó en nuestro estilo de vida.
+**Si no encuentras un propósito mayor a hacer dinero en tu trading, será MUY PROBABLE que te fundas.**
 
-!!!info Atenti **Solo debes continuar con anotador en mano** !!!
+Porque nos pasó a todos los que pensamos que el trading es una máquina de hacer dinero.
 
-#### Validamos el trading entre todos
+No lo es.
+
+Y generamos lo opuesto a lo que intentamos forzar, por lo que a partir de este momento dejarás de pensar en el dinero.
+
+==- ¿Cómo hacerlo?
+Estudia y practica SIN INVERTIR. Y escribe en tu heladera o escritorio "Aprenderé trading cuando me permita dejar de pensar en el dinero".
+===
+
+## La realidad supera a la ficción
+
+Y la idea de lo incierto cotidianamente nos asusta.
+
+Esperamos controlar todas las cosas, cuando no podemos ni siquiera con nuestros propios pensamientos, sentimientos o emociones.
+
+Y lo siento si esperabas algo distinto, pero **te sentirás muy incómod@ si esperas resolver tu situación financiera sin esfuerzo.**
+
+FOTOPROFITDISCORDCOMUNIDAD
+
+Aprenderás de manera amigable o muy dura, porque eres la única persona que decide cuánto leer, practicar y compartir a lo largo de esta experiencia.
+
+!!!info Atenti
+
+**Solo debes continuar con anotador en mano para anotar lo que no entiendas!**
+
+!!!
+
+## **Validamos el trading entre todos**
 
 Porque a pesar de esta foto:
 
-IMAGENMATIKIYO
+![El conocimiento no entra desde caras o fotos "serias"](https://user-images.githubusercontent.com/98671738/212181424-d06ee8b0-be76-40e9-bb4e-8074f348b44e.png)
 
 No soy ni seré un gurú, porque no me interesó, interesa ni interesará serlo.
 
-Claro, todos los gurúes "comparten" (leen guiones ajenos) cierta información útil, pero su razón de ser no es compartir sino que las personas compren servicios inútiles, a partir del marketing de peor calidad que existe.
+> _Los gurúes "comparten" (leen guiones ajenos) cierta información útil, pero su razón de ser no es compartir información, sino vender servicios inútiles, a partir del marketing más mercenario que existe._
 
-Tuve que anunciar mi despedida de un servicio online que llegó a millones de personas, luego de mencionarles que iban a perderlo todo si no cerraban sus posiciones.
+Tuve que anunciar mi despedida de un servicio online que llegó a cientos de miles de personas, luego de mencionarles que iban a perder todo su capital si no cerraban sus posiciones.
 
-IMAGENULTIMOWEBINARENIG(NOPROMO)
+_En ese sistema no estaba contemplada la opción de salir, y por eso "me salí yo" junto a quienes recibieron mi sugerencia y recomendación de hacerlo cuanto antes._
 
-En 6 meses de trading logramos un 574%. El trading rompe muchísimos esquemas, sobre todo en víctimas de la "economía clásica" que nos programa para ahorrar algo que se devalúa a ritmo exponencial.
+!["Siempre va para la empresa, el banco o el Estado"](https://user-images.githubusercontent.com/98671738/215840737-b120c34a-a8cf-4890-b88f-e09b8ba0233a.png)
 
-![Capacidad de compra del dólar en el tiempo](https://user-images.githubusercontent.com/98671738/210263652-4257423d-f7c0-4e1a-916a-7031bad18f05.png)
+### Hicimos un 574% en menos de 6 meses
 
-El marketing de gurúes es lo que mejor funciona con el 97% que se mueve por emociones que no aprendió a gestionar.
+![Profits en Webinar en vivo](https://user-images.githubusercontent.com/98671738/215840287-0c1b61a2-1040-43e5-b598-cc1d0a9568ef.png)
 
-Desde ellos se valida una figura conocida como "falacia de autoridad" que logra récords en speechs de ventas mezclados con datos económicos reciclados o muy trillados.
+Multiplicamos casi 6 veces el dinero invertido en medio año, y fueron presentes de ese resultado millones de personas en todo el mundo, que recibían publicidad en redes sociales disfrazadas de "clases gratuitas".
 
-El trading tampoco es certero pero sabemos eso desde el vamos y por eso entendemos que da igual quiénes seamos las personas, cuando lo que importa es lo que transmitimos o compartimos con el resto.
+_Lo hicimos de manera descentralizada en wallets personales, y eso fue impensado para una empresa como la que me cuasi contrató (las excepciones existen_ 😬_)_
 
-El trading no se trata de mí, de Steve Nison ni mucho menos de Robert Kiyos\*\*\*. Se trata de conocer cada una de nuestras limitaciones y aprender a convivir con todos nuestros miedos y deseos más profundos.
+Te preguntarás qué tan sostenible es hacer un 500%, y en el mundo que vivimos, es algo que se produce en cripto cada 4 años, o en el mercado de acciones estadounidense desde hace casi 20.
 
-Es lo más real que experimentamos y vivimos quienes lo estudiamos, practicamos y aplicamos a nuestra vida.
+**El trading rompe muchísimos esquemas**, sobre todo en lo instalado por la "economía clásica" que nos programa para ahorrar algo que se devalúa a un ritmo exponencialmente creciente (cada vez compra menos).
 
-En Criptonautas lo entendemos como algo colectivo, no individual, y por eso desarrollamos la primera etapa del curso junto a \~300 personas hispano-hablantes (durante dos años).
+![El dólar compra cada vez menos cosas](https://user-images.githubusercontent.com/98671738/210263652-4257423d-f7c0-4e1a-916a-7031bad18f05.png)
 
-> No debemos ser _expertos_ para decidir sobre nuestro dinero, porque en realidad no existen tales _expertos_.
+¿Alguna vez te preguntaste por qué el día a día social es tan frenético?
+
+Así se encargan de que no tengas tiempo de pensar ni evaluar ninguna alternativa.
+
+**Entonces el marketing de gurúes es lo que mejor funciona con el 97% que se mueve por emociones que no aprendió a gestionar.**
+
+Y desde ellos se valida una figura conocida como "falacia de autoridad" que logra **récords en speechs de ventas** mezclados con datos económicos reciclados o hiper trillados.
+
+[!ref icon="info" target="blank" text="Argumento Ad Verecundiam"]([https://es.wikipedia.org/wiki/Argumento\_ad\_verecundiam])
+
+## El trading es honesto
+
+Porque no es certero ni preciso pero sabemos eso _desde el vamos_ y entendemos que da igual quiénes seamos las personas, cuando lo que importa es tomar las decisiones correctas en base a un propio sistema de inversión.
+
+El trading no se trata de mí, de Steve Nison ni mucho menos de Robert Kiyos\*\*\*.
+
+**Se trata de conocer cada una de nuestras limitaciones y aprender a convivir con todos nuestros miedos y deseos más profundos.**
+
+Es lo más real que experimentamos y vivimos quienes lo estudiamos, practicamos y aplicamos a nuestra vida. Y aquí lo entendemos como algo colectivo, ya no exclusivamente individual.
+
+> Desarrollamos este Portal de manera holística y junto a \~300 personas hispano-hablantes durante casi 3 años, porque sabemos que compartir es la única manera de superarnos.
+
+FOTOARCHIVOCARASVIDEOJUNTADA
+
+Las frases bonitas no generan traders sino nuestra práctica constante en comunidad. Y eso es lo que hacemos todos los días en Criptonautas.
+
+FOTO-DISCORD-TELEGRAM
+
+## Las pérdidas son costo de aprendizaje
+
+Y no las verás solo en tu trading sino también en muchas estafas disfrazadas de métodos, estrategias o soluciones.
+
+Todos caímos en alguna/s de ellas, sobre todo al dar nuestros primeros pasos.
+
+![¿Aprende TRADING en SOLO 10 MINUTOS?](../../.gitbook/assets/imagen.png)
+
+_Nadie nos obliga a meternos en ese nido de estafas conocido como Youtube._
+
+**¿Cuántos youtubers crees que son traders?**
+
+Claro, pensamos que la suerte cambiará nuestra realidad y perseguimos durante toda la vida ilusiones. Por eso muchos siguen anotando su número en la lotería cada semana.
+
+Puedes tener suerte y hacer una diferencia importante tradeando alguna memecoin o comprando estafas como LUNA...
+
+![image](https://user-images.githubusercontent.com/122026745/210851418-7b5b788a-fef4-43a1-b8d9-366f9793cf1a.png)
+
+Pero creeme, siempre dura poco:
+
+![image](https://user-images.githubusercontent.com/122026745/210851635-82422f92-c6c9-453f-b769-28e3dc1817f3.png)
+
+Y de nada sirve ganar mucho dinero para luego perderlo de una vez. Porque **el trading es mucho más que juntar indicadores y fijar un \_stop-loss**\_**.**
+
+ICT-ESTAFA-FOTO
+
+> _“Decide si es un pasatiempo o un trabajo. Si es un pasatiempo, mejor encuentra otro porque este va a resultar muy caro y peligrosamente adictivo”._
 >
-> El futuro es incierto y todos hablamos desde nuestra opinión, que puede o no cumplirse. Ningún master en economía o finanzas logrará cambiar eso.
+> — Al Brooks
 
-Pasé la mayor parte de mi vida en tus zapatos. Y si bien vivo tranquilo, no soy millonario ni tampoco quiero serlo.
+## Nuestro método educativo es meritorio
 
-Genero lo que cuesta el estilo de vida que disfruto tener, sin lujos pero sin necesidades. Comparto y disfruto sin privarme en mi día a día porque pienso que es lo que todos deberíamos recibir por nuestro tiempo.
+_¿Te preguntaste por qué no nos enseñan a plantar, cultivar, alimentarnos, hacer yoga, gestionar emociones, nuestro dinero o meditar?_
 
-Aprendí mucho estudiando, pero más practicando y acompañando a otros en su aprendizaje. Las frases bonitas no generan traders sino nuestra práctica constante en comunidad.
+Es absurdo que un profesor puntúe a sus alumnos en base a lo que repitan (o no) y según su criterio. Entonces no lo validamos.
 
-Sinteticé lo necesario para que mi trading funcione, pero lo mantenemos actualizado desde los resultados de cada trader que se suma al proyecto.
+Los Criptonautas no reconocemos autoridades sino argumentos, y sumamos a nuestro desarrollo niveles de compromiso que mantienen la información en tres etapas.
 
-#### Sobre la educación tradicional
+Esta es la **primera Fase del Portal** y mi regalo hacia la comunidad de traders y [Cypherpunks](https://en.wikipedia.org/wiki/Cypherpunk) que me cruzó y seguirá cruzando la vida.
 
-Lo siento pero es absurdo que un profesor puntúe a sus alumnos en base a lo que repitan (o no) y según su criterio.
-
-Por eso nunca reconocí autoridades sino argumentos, e intenté desarrollar este curso "de una vez" con toda la información y los medios de contactos disponibles.
-
-El resultado fue el esperado, la mayoría "se perdió" porque "nadie le decía qué hacer" 😬
-
-!!!contrast Es curioso que esperemos nos digan qué hacer, incluso al aprender a decidir por nuestra cuenta. !!!
-
-Como Criptonautas tampoco juzgamos, pero reconocemos niveles de compromiso que mantienen la información en tres etapas. Porque **el objetivo de la comunidad en este curso es que la mayoría aprenda trading**.
-
-Esto constituye la **primera etapa del curs**o y mi regalo hacia la comunidad de traders que respetan y valoran el open-source, la libertad sobre todas las cosas y se animan a hacer lo que quieren con su vida.
-
-> _No hablo de bitcoiners porque se convirtieron en una secta y prefiero ideas libres de dogmas y censura, pero extiendo el regalo a cada_ [_Cypherpunk_](https://en.wikipedia.org/wiki/Cypherpunk) _del mundo_ 👊
-
-#### Tres etapas de aprendizaje
-
-En la **primera** deberás leer e incorporar la teoría, que es lo que estás haciendo ahora mismo.
-
-!!!alert Tu _hype_ va a disminuir cuando entiendas que deberás aportar muchísimo a tu trading, y aplicar este curso a tu propia estrategia y personalidad. !!!
-
-Es muy probable que quieras abandonar a la semana de comenzar esta etapa, y por eso te acompañaremos en tu reseteo con nuestra comunidad.
-
-En la **segunda etapa**, te tocará practicar, practicar y practicar.
-
-Tendrás dos opciones:
-
-1. No practicar, perder mucho dinero y estancarte en el curso.\\
-2. Practicar, aprender y avanzar en tu trading.
-
-**Solo podrás avanzar en el curso si practicas y compartes.**
-
-Así llegarás a la **última etapa**, luego de encontrarte con todo lo que no conoces del trading (y en realidad representa).
-
-Recién ahí podrás operar y hablaremos sobre trading en plataformas.
-
-> _Estoy editando esta introducción luego de un experimento que busca despertar un sentimiento fuerte para generar cambios (26/09/22 - 04:04 AM)._
->
-> Tanto en el trading como en Criptonautas, estamos siempre _ao vivo_.
-
-#### Métodos flexibles + constancia
-
-El mercado cambia de manera constante y por eso solo podremos formar parte del mismo si lo entendemos.
-
-Si intentaste hacer trading en algún _exchange_ o _broker_ supongo se te ocurrió anotar lo que aprendiste cuando tu cuenta estaba al rojo vivo, y tal vez lo hiciste.
-
-Este libro nació luego de que me encontré con **demasiados** papeles en mi pantalla y le di forma a eso, porque ya no tenía espacio para anotar más cosas.
-
-Al hacer trading es inútil pensar en hacer cosas, porque debemos hacerlas. Esa es la brutal diferencia entre el 3% del mundo y el 97% restante.
-
-Escribí el primer borrador de este libro luego de incorporar la teoría de Dow, Wyckoff, Brooks, Woods, Nison y haber probado todos los indicadores que encontré disponibles.
-
-Porque mi trading, incluso con toda esa pila enorme de información, seguía sin ser consistente.
-
-> _Si googleas sobre AI Brooks y Galen Woods notarás que escribieron libros "alguito" extensos._
->
-> Los académicos del trading publican estrategias con cientos de reglas y miles de páginas que otorgan resultados inciertos.
-
-Ninguno de esos nombres me enseñó trading. Con el tiempo llegué a un puñado de autores de nicho, donde entendí finalmente de qué va todo esto.
-
-**Porque el 90% de académicos con renombre repite relatos** sobre indicadores y métodos que no funcionan.
-
-Dónde está realmente la info:
-
-<figure><img src=".gitbook/assets/imagen (4).png" alt=""><figcaption><p>El más punk, muchos tips</p></figcaption></figure>
-
-<figure><img src=".gitbook/assets/imagen (3).png" alt=""><figcaption><p>La base de mi estrategia (seguir la tendencia)</p></figcaption></figure>
-
-<figure><img src=".gitbook/assets/Screen Shot 2022-10-08 at 13.14.37.png" alt=""><figcaption><p>Mi ABC del trading</p></figcaption></figure>
-
-Y no son los únicos autores, hay más! Pero no encontrarás soluciones a tus problemas financieros en ninguno de ellos, ni tampoco en este libro.
-
-**Encontrarás herramientas que tendrás que poner en práctica sí o sí por tu cuenta, para luego decidir sobre tu capital.**
-
-#### Es mucho más difícil que tener suerte
-
-En Wall Street apuestan profesionalmente con dinero inyectado desde bancos centrales; las _mojarras_ operamos directamente con nuestro capital y eso nos ubica en una posición muchísimo más respetable.
-
-_No podemos esperar a que papá Estado imprima más billetes para seguir apostando, a nosotros nos cierran las cuentas._
-
-Y por otra parte, no podemos hacer como Elon Musk y lograr que millones de personas compren algo que vale cero:
-
-<figure><img src=".gitbook/assets/imagen (6).png" alt=""><figcaption><p>Esquema Pump&#x26;Dump generado por instituciones</p></figcaption></figure>
-
-#### Se funden miles por no practicar trading
-
-Y lo seguirán haciendo, porque las empresas y sobre todo el marketing mercenario del siglo XXI, venden lo que sea como trading.
-
-**Estamos programados para cumplir órdenes (no elegir) y el trading es la elección más libre que existe sobre el dinero, que es lo más valoramos socialmente.**
-
-> A la fuerza todos los Criptonautas entendimos que sin practicar, registrar trades, empezar en demo y llevar un diario de trading, en realidad estábamos apostando.
-
-#### Casi todos fuimos placton de ballenas
-
-Porque al compartir en comunidad, contamos con la experiencia colectiva de muchas personas.
-
-En mi caso me fundí dos veces. Y con las últimas fuerzas que tenía, le di forma al primer borrador en un bloc de notas que escribí de corrido en algo así como 10 horas contínuas.
-
-En ese momento no tenía nada que perder, sabía que lo más probable era que mi cuenta siga sufriendo, pero no tenía el coraje necesario para cerrar la posición.
-
-**La euforia si sucedía lo contrario era muy grande y justificaba el riesgo** (ni siquiera era consciente de tal riesgo)...
-
-Pero _la pegué_, tuve suerte!
-
-Recuperé ese dinero, de hecho salí en profits y me mantuve _"ganando algunas y perdiendo otras"_ hasta que conocí el margen en Bitmex.
-
-Ahí me vi cara a cara con el diablo, y obtuve la sabiduría que hoy me permite transformar esa experiencia en lo que modificará tu vida, pero sin necesidad de que pases lo mismo.
-
-El diablo en este caso no tiene una connotación negativa, pero es aquello que nos muestra nuestros miedos y deseos más ocultos.
-
-El trading nos muestra todo.
+_Cypherpunk es cualquiera que respete y valore el open-source, la libertad (privacidad) sobre todas las cosas, y/o se anime a hacer lo que quiera con su vida_ 👊
